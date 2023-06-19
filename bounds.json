@@ -31,11 +31,11 @@
     "Melbourne_non_bidirectional/Local_compact/problem_7_tof_4.pddl": [24, 24],
     "Melbourne_non_bidirectional/Local_compact/problem_1_or.pddl": [8, 8],
     "Melbourne_non_bidirectional/Local_compact/problem_4_4mod5-v1_22.pddl": [16, 16],
-    "Melbourne_non_bidirectional/Local_compact/problem_13_rc_adder_6.pddl": [0, 166],
-    "Melbourne_non_bidirectional/Local_compact/problem_11_barenco_tof_5.pddl": [0, 81],
-    "Melbourne_non_bidirectional/Local_compact/problem_10_mod_mult_55.pddl": [0, 66],
+    "Melbourne_non_bidirectional/Local_compact/problem_13_rc_adder_6.pddl": [71, 166],
+    "Melbourne_non_bidirectional/Local_compact/problem_11_barenco_tof_5.pddl": [50, 81],
+    "Melbourne_non_bidirectional/Local_compact/problem_10_mod_mult_55.pddl": [40, 66],
     "Melbourne_non_bidirectional/Local_compact/problem_6_4gt13_92.pddl": [48, 48],
     "Melbourne_non_bidirectional/Local_compact/problem_5_mod5mils_65.pddl": [26, 26],
-    "Melbourne_non_bidirectional/Local_compact/problem_12_vbe_adder_3.pddl": [0, 83],
+    "Melbourne_non_bidirectional/Local_compact/problem_12_vbe_adder_3.pddl": [50, 83],
     "Melbourne_non_bidirectional/Local_compact/problem_3_qaoa5.pddl": [9, 9]
 }
